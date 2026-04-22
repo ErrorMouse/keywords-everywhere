@@ -2,8 +2,9 @@
 /**
  * Plugin Name: 		Keywords Everywhere
  * Description: 		Automatically uses post/product tags, categories, and Rank Math focus keywords to generate meta keywords for your WordPress content.
- * Version: 			2.0
+ * Version:           	2.0
  * Requires at least: 	5.2
+ * Requires PHP:      	7.2
  * Author: 				Err
  * Author URI: 			https://profiles.wordpress.org/nmtnguyen56/
  * License: 			GPL2
